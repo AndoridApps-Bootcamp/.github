@@ -1,3 +1,5 @@
+<!--
+
 ## Hi there 👋
 
 CodePath's Android Development online Bootcamp, after the completion of their Mobile App Development course. It is a project-focused Android training in Java to build skills in using popular APIs like MovieDB, Twitter, Instagram and learn how to build custom backend using Parse. The technologies used are: Networking and parsing JSON, AsyncHttpClient, OAuth login, API request and creating models, Activities and Intents, Recyclerview, Heterogenous Recyclerview, Pass data from Fragments to Activity, Sqlite, Room, Parse server, YouTubePlayeyview, Responsive views (portrait and landscape mode), Transitions and animations, UI styling, Debugging with Android Studio, Parceler, Glide, Gihub.
